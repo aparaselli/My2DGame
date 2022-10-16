@@ -1,2 +1,2 @@
 # My2DGame
-2D game created in Java. Following tutorial by RyiSnow
+Simple 2D game made in Java where the objective is to gather keys to open doors
